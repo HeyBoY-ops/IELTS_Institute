@@ -1,4 +1,5 @@
 import React from 'react';
+import photo from '../assets/ss.jpg';
 
 export default function Hero() {
   return (
@@ -51,7 +52,7 @@ export default function Hero() {
         <div className="rounded-2xl bg-white shadow-lg p-4 min-h-[320px] flex items-center justify-center">
           {/* Replace placeholder with real asset */}
           <img
-            src="../../src/assets/ss.jpg"
+            src={photo}
             alt="students studying"
             className="object-cover rounded-lg w-full h-80"
           />
