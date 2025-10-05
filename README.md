@@ -1,6 +1,5 @@
 # IELTS Institute — Homepage (React + Tailwind)
 
-
 This is a responsive, modern landing page for a fictional IELTS training institute. The project emphasizes UI quality, accessibility, and modular React components.
 
 ## What you'll find
