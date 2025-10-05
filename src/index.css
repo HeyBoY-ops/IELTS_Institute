@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #1e6fff;
+  --color-brand-light: #eaf2ff;
+  --color-brand-dark: #1555cc;
+  --color-primary: #0f1724;
+}
+
+body {
+  background-color: var(--color-brand-light);
+  color: #0f1724;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  line-height: 1.5;
+}
+
+html {
+  scroll-behavior: smooth;
+}
